@@ -1,4 +1,1 @@
-solar-system
-============
-
-Solar system simulation using only CSS3
+**Demo:** http://klikster.info/experiments/solar-system
